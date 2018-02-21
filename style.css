@@ -1,0 +1,116 @@
+body {
+	padding: 0 10%;
+	background-color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center ;
+    background-attachment:fixed;
+}
+
+.center {
+	text-align: center;
+	font-size: 70px;
+	color:#000F66;
+	font-family: 'Orbitron', sans-serif;
+ 
+
+font-family: 'Orbitron', sans-serif;
+}
+
+.grid {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	margin-top: 10%;
+	margin:5em auto;
+}
+
+.photo {
+	margin:auto;
+	display: block;
+}
+}
+
+img {
+	width: 60%;
+}
+
+li {
+	font-size: 30px; 
+	font-family: 'Orbitron', sans-serif;
+}
+
+h2 {
+	font-size:50px;
+	font-family: 'Orbitron', sans-serif;
+}
+
+.pink{
+	color:#00FBFF;
+	font-family: 'Orbitron', sans-serif;
+}
+.class2{
+	font-family: 'Orbitron', sans-serif;
+	color: #EAF07C
+
+
+}
+.video{
+	margin-top: 10%;
+	color: #060C49
+	font-size:75px;
+}
+.link{
+    font-size:35px;
+    color: #EAF07C
+}  
+
+
+button {
+	color: #00FBFF;
+	background-color:#081B2E;
+	border-color: #081B2E;
+    font-size:0.5em; 
+	padding: 0.5em 1em 0.5em 1em;
+	font-family: 'Lobster', cursive;
+
+}
+.menu {
+	position: absolute;
+	top: 0;
+	right: 0;
+	
+
+}
+.menu li{
+	list-style: none;
+}
+footer{
+	background-color: grey;
+    
+
+}
+  
+main {
+	min-height: 100vh;
+}
+.footer-text{
+font-family: 'Lobster', cursive;
+font-size: 20px
+}
+
+.buttonn{
+	background-color: black;
+	
+}
+#image1{
+	width: 50%;
+	display: block;
+	margin: 0 auto;
+	margin-top: 4em ;
+}
+#image3{
+	width: 50%;
+	display: block;
+	margin: 0 auto;
+	margin margin-top: 4em;
+}
